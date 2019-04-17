@@ -6,7 +6,7 @@ FN:Elisa PaetzoldORG:NEED Financial Services;
 TITLE:Senior Production Accountant
 EMAIL;type=INTERNET;type=WORK;type=pref:epaetzold@needfs.com
 TEL;type=WORK;type=VOICE:+13103951500
-TELitem1.ADR;type=WORK;type=pref:;;701 Santa Monica Blvd. Ste 200\nSanta Monica\, CA;;;90401;United States
+item1.ADR;type=WORK;type=pref:;;701 Santa Monica Blvd. Ste 200\nSanta Monica\, CA;;;90401;United States
 item1.X-ABADR:sg
 item2.URL;type=pref:needfs.com
 item2.X-ABLabel:_$!<HomePage>!$_
