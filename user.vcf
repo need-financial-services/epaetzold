@@ -2,7 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Paetzold;Elisa;;;
-FN:Elisa PaetzoldORG:NEED Financial Services;
+FN:Elisa Paetzold;
+ORG:NEED Financial Services;
 TITLE:Senior Production Accountant
 EMAIL;type=INTERNET;type=WORK;type=pref:epaetzold@needfs.com
 TEL;type=WORK;type=VOICE:+13103951500
